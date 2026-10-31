@@ -1,0 +1,560 @@
+{
+  "brand": "Escuela Tecnológica",
+  "whatsapp": "59162301640",
+  "instructor": "",
+  "showInstructor": false,
+  "courses": [
+    {
+      "id": "videos-inmobiliarios",
+      "title": "Creación de videos inmobiliarios con IA",
+      "cat": "Videos y creatividad",
+      "art": "house",
+      "price": 200,
+      "date": "2026-11-11",
+      "endDate": "2026-11-12",
+      "start": "19:00",
+      "end": "21:00",
+      "hours": 4,
+      "tag": "Para tu negocio",
+      "desc": "Convierte las fotos de una propiedad en un recorrido que capte la atención.",
+      "intro": "Dale una nueva vida a tus propiedades. Aprende a transformar fotografías en recorridos visuales y piezas de video para redes sociales, con una metodología práctica guiada en vivo.",
+      "audience": "Agentes inmobiliarios, emprendedores y creadores de contenido que quieren presentar propiedades con videos.",
+      "requirements": "Computadora, conexión a internet y fotografías de una propiedad para practicar. Algunas herramientas pueden requerir una cuenta o créditos de pago, que no están incluidos.",
+      "outcomes": [
+        "Preparar fotografías y un guion para una propiedad.",
+        "Escribir prompts para movimiento de cámara e iluminación.",
+        "Construir un recorrido con secuencias coherentes.",
+        "Editar una pieza vertical lista para redes sociales."
+      ],
+      "modules": [
+        [
+          "Loteamiento urbano y rural",
+          [
+            "Preparación de imágenes de terrenos y proyectos de loteamiento.",
+            "Visualización de loteamientos urbanos y rurales con IA.",
+            "Creación de videos para presentar terrenos, condominios y proyectos.",
+            "Prompts para movimientos de cámara y presentación comercial."
+          ]
+        ],
+        [
+          "Recorridos inmobiliarios con IA",
+          [
+            "Creación de recorridos interiores y exteriores de viviendas.",
+            "Animación de fotografías de casas y edificios.",
+            "Edición de escenas, música, voz y rótulos.",
+            "Exportación de un video vertical para estados y redes sociales."
+          ]
+        ]
+      ],
+      "video": "",
+      "image": "",
+      "deliveryLabel": "En vivo por Zoom",
+      "level": "Inicial",
+      "videos": []
+    },
+    {
+      "id": "videos-inmobiliarios-avanzado",
+      "title": "Creación de Videos Inmobiliarios (Avanzado)",
+      "cat": "Videos y creatividad",
+      "art": "house",
+      "price": 250,
+      "date": "2026-12-02",
+      "endDate": "2026-12-03",
+      "start": "19:00",
+      "end": "21:00",
+      "hours": 4,
+      "tag": "Avanzado",
+      "deliveryLabel": "En vivo por Zoom",
+      "level": "Avanzado",
+      "desc": "Crea loteamientos para condominios, tours con avatares y videos inmobiliarios con voz en off y edición.",
+      "intro": "Lleva tus videos inmobiliarios al siguiente nivel: crea presentaciones de loteamientos para condominios, tours de casas con avatares e influencers virtuales, locuciones con ElevenLabs y la edición final en CapCut.",
+      "audience": "Agentes inmobiliarios, creadores de contenido y emprendedores con conocimientos básicos de creación de imágenes y videos con IA.",
+      "requirements": "Experiencia básica en creación de imágenes y videos con IA, computadora e internet. Necesitarás cuentas en las herramientas utilizadas. Las suscripciones y créditos de las herramientas no están incluidos.",
+      "outcomes": [
+        "Crear videos de loteamientos para condominios.",
+        "Diseñar tours de casas con avatares e influencers virtuales.",
+        "Generar voz en off con ElevenLabs.",
+        "Editar y exportar videos verticales en CapCut."
+      ],
+      "modules": [
+        [
+          "Loteamientos para condominios y tours con avatares",
+          [
+            "Creación de presentaciones de loteamientos para condominios.",
+            "Preparación de imágenes y guiones para proyectos inmobiliarios.",
+            "Creación de tour house con avatares e influencers virtuales.",
+            "Continuidad de escenas y movimientos de cámara con IA."
+          ]
+        ],
+        [
+          "Voz en off con ElevenLabs y edición en CapCut",
+          [
+            "Preparación de guiones para voz en off.",
+            "Generación de locuciones con ElevenLabs.",
+            "Edición de escenas, locución, música y textos en CapCut.",
+            "Exportación de videos verticales para estados y redes sociales."
+          ]
+        ]
+      ],
+      "video": "",
+      "videos": [],
+      "image": ""
+    },
+    {
+      "id": "videos-con-ia",
+      "title": "Creación de videos con inteligencia artificial",
+      "cat": "Videos y creatividad",
+      "art": "film",
+      "price": 200,
+      "date": "2026-11-16",
+      "endDate": "2026-11-17",
+      "start": "19:00",
+      "end": "21:00",
+      "hours": 4,
+      "tag": "Creatividad en acción",
+      "desc": "Pasa de una idea a un video para tus redes, proyectos o emprendimiento.",
+      "intro": "Aprende el proceso completo para producir un video con inteligencia artificial: de la primera idea al guion, las escenas, el sonido y la edición final.",
+      "audience": "Emprendedores, docentes y creadores que desean empezar a producir videos con IA.",
+      "requirements": "Computadora, internet y una idea para tu proyecto. Las cuentas y créditos de herramientas externas se gestionan por separado.",
+      "outcomes": [
+        "Crear un guion y un storyboard sencillo.",
+        "Redactar prompts claros para cada escena.",
+        "Mantener continuidad visual entre tomas.",
+        "Preparar un video corto con sonido y subtítulos."
+      ],
+      "modules": [
+        [
+          "Guion y diseño de escenas",
+          [
+            "Define el propósito y la audiencia.",
+            "Crea un guion con inicio, desarrollo y cierre.",
+            "Construye un storyboard.",
+            "Escribe prompts con encuadre, acción y estilo."
+          ]
+        ],
+        [
+          "Generación y edición de videos",
+          [
+            "Prueba un flujo de trabajo de imagen a video.",
+            "Selecciona tomas y corrige inconsistencias.",
+            "Integra audio, títulos y subtítulos.",
+            "Adapta el formato para redes sociales."
+          ]
+        ]
+      ],
+      "video": "",
+      "image": "",
+      "deliveryLabel": "En vivo por Zoom",
+      "level": "Inicial",
+      "videos": []
+    },
+    {
+      "id": "avatares-influencers",
+      "title": "Avatares e influencers con IA",
+      "cat": "Avatares y voz",
+      "art": "avatar",
+      "price": 250,
+      "date": "2026-11-18",
+      "endDate": "2026-11-19",
+      "start": "19:00",
+      "end": "21:00",
+      "hours": 4,
+      "tag": "Identidad digital",
+      "desc": "Diseña un personaje digital y dale voz para comunicar tus ideas.",
+      "intro": "Crea un personaje digital original y explora cómo darle una apariencia consistente, una voz y un mensaje útil para tu marca o tus proyectos.",
+      "audience": "Creadores, profesionales de marketing, docentes y emprendedores interesados en personajes digitales.",
+      "requirements": "Computadora e internet. Utiliza material propio o con autorización. Las suscripciones de herramientas externas no están incluidas.",
+      "outcomes": [
+        "Definir la personalidad y el estilo de un avatar.",
+        "Generar referencias visuales consistentes.",
+        "Preparar un guion y una voz para el personaje.",
+        "Diseñar una primera pieza para redes sociales."
+      ],
+      "modules": [
+        [
+          "Creación e identidad del avatar",
+          [
+            "Define propósito, audiencia y personalidad.",
+            "Crea la ficha visual del personaje.",
+            "Genera y selecciona imágenes de referencia.",
+            "Mantén rasgos, vestuario y estilo."
+          ]
+        ],
+        [
+          "Voz y contenido del avatar",
+          [
+            "Prepara un guion breve.",
+            "Explora locución y sincronización de labios con consentimiento.",
+            "Compón un video de presentación.",
+            "Revisa transparencia, derechos y uso responsable."
+          ]
+        ]
+      ],
+      "video": "",
+      "image": "",
+      "deliveryLabel": "En vivo por Zoom",
+      "level": "Inicial",
+      "videos": []
+    },
+    {
+      "id": "mini-apps",
+      "title": "Crea mini apps con IA sin programar",
+      "cat": "Apps y automatización",
+      "art": "apps",
+      "price": 200,
+      "date": "2026-11-21",
+      "endDate": "2026-11-28",
+      "start": "09:00",
+      "end": "12:00",
+      "hours": 6,
+      "tag": "Cursos 100% prácticos",
+      "desc": "Transforma una necesidad de tu negocio en una mini aplicación web.",
+      "intro": "Construye una primera mini app guiándote con inteligencia artificial. Trabajaremos una idea concreta, su interfaz, sus funciones y un proceso básico de publicación.",
+      "audience": "Emprendedores, docentes y personas que buscan crear una primera herramienta digital sin experiencia previa en programación.",
+      "requirements": "Computadora, internet y cuentas en las herramientas del taller. No necesitas experiencia en programación. Algunos servicios pueden tener límites gratuitos o costos adicionales.",
+      "outcomes": [
+        "Plantear un problema y una solución simple.",
+        "Pedir a la IA una interfaz y funciones claras.",
+        "Probar un catálogo o una agenda básica.",
+        "Conocer los pasos para publicar tu mini app."
+      ],
+      "modules": [
+        [
+          "Diseño y construcción de mini apps",
+          [
+            "Define tu usuario y su necesidad.",
+            "Escribe un prompt con requisitos concretos.",
+            "Genera la estructura inicial con IA.",
+            "Ajusta textos, colores y navegación."
+          ]
+        ],
+        [
+          "Datos, pruebas y publicación",
+          [
+            "Organiza la información de tu catálogo.",
+            "Prueba formularios y enlaces a WhatsApp.",
+            "Detecta errores desde el celular.",
+            "Revisa un flujo de publicación y respaldo."
+          ]
+        ]
+      ],
+      "video": "",
+      "image": "",
+      "deliveryLabel": "En vivo por Zoom",
+      "level": "Inicial",
+      "videos": []
+    },
+    {
+      "id": "dashboard-apps-script",
+      "title": "Creación de Dashboards y Google Apps Script",
+      "cat": "Datos y productividad",
+      "art": "apps",
+      "price": 200,
+      "date": "2026-12-07",
+      "endDate": "2026-12-08",
+      "start": "19:00",
+      "end": "21:00",
+      "hours": 4,
+      "tag": "Información visual",
+      "deliveryLabel": "En vivo por Zoom",
+      "level": "Inicial",
+      "desc": "Transforma tus hojas de cálculo en información visual y automatiza tareas para apoyar la toma de decisiones.",
+      "intro": "Aprende a organizar información, crear dashboards visuales y automatizar tareas en hojas de cálculo con Google Apps Script y ayuda de la inteligencia artificial. Trabajaremos con ejemplos prácticos para facilitar el seguimiento de la información de un negocio o área de trabajo.",
+      "audience": "Emprendedores, profesionales y equipos de ventas, administración y otras áreas que utilizan hojas de cálculo y quieren visualizar mejor su información.",
+      "requirements": "Conocimientos básicos de hojas de cálculo, cuenta de Google, computadora e internet. Utilizaremos datos de práctica para los ejercicios.",
+      "outcomes": [
+        "Organizar datos para construir indicadores útiles.",
+        "Crear dashboards con gráficos y filtros.",
+        "Automatizar tareas de hojas de cálculo con Google Apps Script.",
+        "Preparar información visual para apoyar la toma de decisiones."
+      ],
+      "modules": [
+        [
+          "Dashboards para visualizar información",
+          [
+            "Organización y preparación de datos en Google Sheets.",
+            "Selección de indicadores para un negocio o área de trabajo.",
+            "Creación de gráficos, filtros y un tablero visual.",
+            "Interpretación de indicadores para apoyar la toma de decisiones."
+          ]
+        ],
+        [
+          "Automatización con Google Apps Script",
+          [
+            "Introducción a Google Apps Script con apoyo de la IA.",
+            "Automatización de registros y tareas repetitivas.",
+            "Actualización de información y preparación de reportes.",
+            "Pruebas, permisos y respaldo del trabajo realizado."
+          ]
+        ]
+      ],
+      "video": "",
+      "videos": [],
+      "image": ""
+    },
+    {
+      "id": "whatsapp-ia",
+      "title": "WhatsApp Business + IA para tu negocio",
+      "cat": "Marketing y negocios",
+      "art": "chat",
+      "price": 150,
+      "date": "2026-11-23",
+      "endDate": "2026-11-24",
+      "start": "19:00",
+      "end": "21:00",
+      "hours": 4,
+      "tag": "Atención al cliente",
+      "desc": "Organiza tus consultas y crea respuestas útiles con ayuda de la IA.",
+      "intro": "Mejora la atención de tu emprendimiento con un perfil comercial claro, un catálogo ordenado y respuestas que te ayuden a mantener una comunicación cercana.",
+      "audience": "Emprendedores, vendedores y personas que atienden clientes por WhatsApp.",
+      "requirements": "Celular con WhatsApp Business, computadora recomendada y acceso a internet. El taller no incluye API, integraciones ni envíos automáticos.",
+      "outcomes": [
+        "Organizar el perfil y catálogo comercial.",
+        "Preparar respuestas rápidas para consultas frecuentes.",
+        "Redactar mensajes de venta con IA.",
+        "Definir un seguimiento respetuoso a tus clientes."
+      ],
+      "modules": [
+        [
+          "Configuración y atención comercial",
+          [
+            "Configura la información del perfil.",
+            "Organiza productos y servicios en tu catálogo.",
+            "Prepara etiquetas y respuestas rápidas.",
+            "Define un flujo sencillo de atención."
+          ]
+        ],
+        [
+          "Mensajes con IA y seguimiento",
+          [
+            "Escribe mensajes con contexto y tono propio.",
+            "Adapta respuestas a situaciones de venta.",
+            "Diseña un registro básico de interesados.",
+            "Prepara mensajes útiles con consentimiento."
+          ]
+        ]
+      ],
+      "video": "",
+      "image": "",
+      "deliveryLabel": "En vivo por Zoom",
+      "level": "Inicial",
+      "videos": []
+    },
+    {
+      "id": "marketing-ia",
+      "title": "Marketing y contenido para redes con IA",
+      "cat": "Marketing y negocios",
+      "art": "marketing",
+      "price": 200,
+      "date": "2026-11-25",
+      "endDate": "2026-11-26",
+      "start": "19:00",
+      "end": "21:00",
+      "hours": 4,
+      "tag": "Impulsa tus ideas",
+      "desc": "Planifica publicaciones y crea piezas visuales para tu emprendimiento.",
+      "intro": "Convierte los objetivos de tu negocio en un plan de contenidos concreto. Aprende a combinar ideas, textos e imágenes con IA y criterio propio.",
+      "audience": "Emprendedores, responsables de redes y profesionales que desean crear contenido para sus marcas.",
+      "requirements": "Computadora, internet y una marca o emprendimiento para practicar. Las herramientas y campañas publicitarias de pago no están incluidas.",
+      "outcomes": [
+        "Definir un público y un mensaje principal.",
+        "Crear un calendario de contenido.",
+        "Redactar textos y diseñar piezas visuales.",
+        "Revisar resultados y ajustar futuras publicaciones."
+      ],
+      "modules": [
+        [
+          "Estrategia y calendario de contenido",
+          [
+            "Define tu propuesta y tu público.",
+            "Elige objetivos de comunicación.",
+            "Construye pilares de contenido.",
+            "Organiza un calendario de publicaciones."
+          ]
+        ],
+        [
+          "Producción de contenido y publicación",
+          [
+            "Genera borradores de textos e imágenes.",
+            "Ajusta el tono y la identidad de marca.",
+            "Prepara formatos para cada canal.",
+            "Revisa indicadores básicos y aprendizajes."
+          ]
+        ]
+      ],
+      "video": "",
+      "image": "",
+      "deliveryLabel": "En vivo por Zoom",
+      "level": "Inicial",
+      "videos": []
+    }
+  ],
+  "copy": {
+    "tagline": "APRENDE. CREA. TRANSFORMA.",
+    "heroLabel": "CURSOS DE INTELIGENCIA ARTIFICIAL, EN VIVO",
+    "heroFirst": "Tu próxima idea",
+    "heroSecond": "empieza con",
+    "heroAccent": "IA.",
+    "heroDescription": "Utiliza la inteligencia artificial para ser más productivo, aprender más rápido y simplificar tu trabajo. Cursos 100% prácticos, en vivo por Zoom.",
+    "heroButton": "Explorar cursos",
+    "caption1": "Desde donde estés",
+    "caption2": "Cursos 100% prácticos",
+    "caption3": "En español",
+    "catalogLabel": "ELIGE TU SIGUIENTE PASO",
+    "catalogTitle": "Encuentra tu próximo curso",
+    "catalogDescription": "Explora un tema. Descubre lo que puedes crear.",
+    "searchPlaceholder": "¿Qué quieres aprender?",
+    "individualTab": "Cursos individuales",
+    "benefit1Title": "Clases en vivo por Zoom",
+    "benefit1Text": "Pregunta, participa y crea",
+    "benefit2Title": "Proyectos aplicados",
+    "benefit2Text": "Lleva tus ideas a la práctica",
+    "benefit3Title": "Inscripción por WhatsApp",
+    "benefit3Text": "Consulta y confirma tu lugar",
+    "trustTitle": "Conoce nuestros cursos anteriores",
+    "trustText": "Visita nuestra página de Facebook para revisar publicaciones de cursos realizados anteriormente y conocer más sobre Escuela Tecnológica.",
+    "facebookButton": "Ver cursos anteriores en Facebook ↗",
+    "supportTitle": "¿No sabes por dónde empezar?",
+    "supportText": "Cuéntanos qué quieres crear y te orientamos sobre el curso.",
+    "supportButton": "Conversemos",
+    "supportMessage": "Hola, quisiera orientación sobre los cursos de inteligencia artificial.",
+    "howLabel": "ASÍ DE SENCILLO",
+    "howTitle": "De la curiosidad a la práctica",
+    "step1Label": "01 / EXPLORA",
+    "step1Title": "Elige lo que quieres aprender",
+    "step1Text": "Revisa el temario, los horarios y los requisitos de cada curso.",
+    "step2Label": "02 / CONVERSEMOS",
+    "step2Title": "Envía tu selección por WhatsApp",
+    "step2Text": "Agrega cursos al carrito y consulta disponibilidad, pago e inscripción.",
+    "step3Label": "03 / CONÉCTATE",
+    "step3Title": "Nos vemos en vivo por Zoom",
+    "step3Text": "Una vez confirmada tu inscripción, coordinamos el acceso a tu clase.",
+    "outcomesTitle": "Lo que aprenderás a crear",
+    "videoTitle": "Conoce el curso en video",
+    "videoEmptyTitle": "Aquí irá el video de este curso",
+    "videoEmptyText": "Próximamente podrás conocer más sobre este curso en video.",
+    "syllabusTitle": "Un temario para llevarlo a la práctica",
+    "syllabusNote": "",
+    "audienceTitle": "¿Para quién es este curso?",
+    "requirementsTitle": "Qué necesitas para participar",
+    "teacherTitle": "Aprendemos en vivo",
+    "teacherDescription": "Sesiones guiadas con espacio para consultas y práctica.",
+    "purchaseLabel": "TU PRÓXIMO PROYECTO EMPIEZA AQUÍ",
+    "cartAdd": "Agregar al carrito",
+    "cartView": "Ver en mi carrito",
+    "courseConsult": "Consultar por este curso",
+    "purchaseNote": "El carrito inicia una consulta. La disponibilidad y la inscripción se confirman personalmente por WhatsApp.",
+    "courseLink": "Ver curso ↗",
+    "returnCatalog": "Volver al catálogo",
+    "moreTitle": "Hay más ideas por descubrir",
+    "moreText": "Explora otros cursos de inteligencia artificial.",
+    "whatsappButton": "Continuar por WhatsApp",
+    "faqTitle": "Preguntas frecuentes",
+    "footerDescription": "Inteligencia artificial para tus ideas.",
+    "footerSchedule": "Clases en vivo por Zoom · Bolivia · Horarios GMT−4",
+    "directWhatsappLabel": "WhatsApp",
+    "directWhatsappMessage": "Hola, tengo una consulta sobre sus cursos.",
+    "incompanyLabel": "CAPACITACIÓN PARA EMPRESAS",
+    "incompanyTitle": "Cursos In Company, presenciales para tu empresa",
+    "incompanyDescription": "Ofrecemos cursos presenciales de inteligencia artificial para empresas, enfocados en mejorar la productividad de las diferentes áreas y aplicar lo aprendido al trabajo de sus equipos.",
+    "incompanyButton": "Consultar cursos para mi empresa",
+    "incompanyMessage": "Hola, me interesa recibir información sobre cursos In Company presenciales de inteligencia artificial para mejorar la productividad de las áreas de mi empresa.",
+    "servicesLabel": "SOLUCIONES DIGITALES PARA TU NEGOCIO",
+    "servicesTitle": "Servicios y productos",
+    "servicesDescription": "Creamos soluciones digitales para que tu negocio se presente mejor, atienda a sus clientes y organice su trabajo."
+  },
+  "faqs": [
+    {
+      "question": "¿Cómo sé que no es una estafa?",
+      "answer": "Puedes visitar nuestra página de Facebook para conocer Escuela Tecnológica y revisar publicaciones de cursos realizados anteriormente. Si tienes dudas, contáctanos por WhatsApp antes de inscribirte.",
+      "facebook": true
+    },
+    {
+      "question": "¿Necesito saber programar?",
+      "answer": "Los cursos introductorios están pensados para empezar con una guía práctica. Revisa el apartado de requisitos de cada curso.",
+      "facebook": false
+    },
+    {
+      "question": "¿Cómo se realiza el pago?",
+      "answer": "Envía tu selección por WhatsApp para confirmar disponibilidad, precio y método de pago. El carrito prepara tu solicitud; no realiza cobros ni confirma inscripciones automáticamente.",
+      "facebook": false
+    },
+    {
+      "question": "¿Las herramientas de IA están incluidas?",
+      "answer": "Las suscripciones o créditos de herramientas externas no están incluidos. Consulta los requisitos de cada curso antes de inscribirte.",
+      "facebook": false
+    },
+    {
+      "question": "¿Hay grabación o certificado?",
+      "answer": "La disponibilidad de grabación, materiales y certificado se confirmará para cada curso antes de abrir las inscripciones.",
+      "facebook": false
+    }
+  ],
+  "promotion": {
+    "label": "Promociones",
+    "tag": "APRENDE MÁS, COMBINA TUS IDEAS",
+    "title": "Dos cursos. Más posibilidades.",
+    "description": "Elige dos cursos diferentes del catálogo y aprovecha el precio especial. Arma tu combinación y envía tu solicitud por WhatsApp.",
+    "price": 300,
+    "selectionTitle": "Arma tu combo",
+    "selectionText": "Selecciona los dos temas que quieres aprender.",
+    "summaryTitle": "Combo de 2 cursos",
+    "button": "Agregar promoción al carrito",
+    "terms": "El precio de la promoción se aplica a estos dos cursos. Los cursos adicionales se cobran por separado. Puedes tener un combo en el carrito y cambiar su selección."
+  },
+  "facebook": "https://www.facebook.com/share/19Yrx4y1oj/",
+  "incompanyCourses": [
+    {
+      "id": "ventas-chatbots",
+      "title": "Ventas: chatbots y WhatsApp con IA",
+      "description": "Chatbots y WhatsApp con IA para atender consultas, dar seguimiento a clientes y apoyar la gestión comercial.",
+      "buttonLabel": "Consultar capacitación",
+      "message": "Hola, me interesa un curso In Company presencial para el área de ventas sobre chatbots y WhatsApp con IA.",
+      "visible": true
+    },
+    {
+      "id": "dashboards-apps-script",
+      "title": "Dashboards y Google Apps Script para hojas de cálculo",
+      "description": "Crea tableros visuales y automatiza tareas en Google Sheets para organizar la información y apoyar la toma de decisiones.",
+      "buttonLabel": "Consultar capacitación",
+      "message": "Hola, me interesa una capacitación In Company presencial sobre dashboards y Google Apps Script para hojas de cálculo, orientada a visualizar información y apoyar la toma de decisiones.",
+      "visible": true
+    }
+  ],
+  "services": [
+    {
+      "id": "paginas-web",
+      "title": "Creación de páginas web",
+      "description": "Páginas de presentación y landing pages para mostrar tu empresa, tus servicios y tus medios de contacto.",
+      "buttonLabel": "Consultar servicio",
+      "message": "Hola, me interesa la creación de una página web para mi negocio. Quisiera más información.",
+      "visible": true
+    },
+    {
+      "id": "catalogos-tiendas",
+      "title": "Catálogos, e-commerce y tiendas virtuales",
+      "description": "Presenta tus productos con imágenes, precios, carrito y un proceso de pedido adaptado a tu negocio.",
+      "buttonLabel": "Consultar servicio",
+      "message": "Hola, me interesa crear un catálogo, e-commerce o tienda virtual para mi negocio. Quisiera conocer las opciones.",
+      "visible": true
+    },
+    {
+      "id": "chatbots-clientes",
+      "title": "Chatbots para atención al cliente y ventas",
+      "description": "Asistentes para responder consultas frecuentes, orientar a tus clientes y apoyar el seguimiento comercial.",
+      "buttonLabel": "Consultar servicio",
+      "message": "Hola, me interesa un chatbot de atención al cliente y ventas para mi empresa. Quisiera más información.",
+      "visible": true
+    },
+    {
+      "id": "apps-negocios",
+      "title": "Apps para gimnasios, salones de belleza y restaurantes",
+      "description": "Aplicaciones a medida para organizar reservas, clientes, pedidos y otras necesidades de tu emprendimiento.",
+      "buttonLabel": "Consultar servicio",
+      "message": "Hola, me interesa una app para un gimnasio, salón de belleza, restaurante u otro negocio. Quisiera más información.",
+      "visible": true
+    }
+  ],
+  "advancedCourseAdded": true,
+  "dashboardCourseAdded": true
+}
