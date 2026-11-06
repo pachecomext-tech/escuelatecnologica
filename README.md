@@ -72,3 +72,8 @@ El catálogo se guarda en el almacén `escuela-catalogo`, clave `escuela/catalog
 El plan y los consumos dependen de tu cuenta de Netlify. No se cambia el plan ni se activan servicios de pago con estos archivos. No se incluyen claves reales. `npm ci`, `npm test` y `npm run build` permiten verificar el proyecto. Las pruebas locales usan datos aislados.
 
 Fuentes oficiales: [variables para funciones de Netlify](https://docs.netlify.com/build/functions/environment-variables/), [despliegue de funciones desde Git](https://docs.netlify.com/build/functions/get-started/), [Netlify Blobs](https://docs.netlify.com/build/data-and-storage/netlify-blobs/).
+
+
+## Actualización: productos y nuevos cursos
+
+Consulta `ACTUALIZAR_PRODUCTOS.html` para revisar la vista previa y actualizar el mismo repositorio de GitHub y el mismo proyecto Netlify. Productos incluye tres mini apps a Bs 50 editables, ficha propia, un video por producto y carrito hacia WhatsApp. La creación de cursos está visible al principio del panel e incluye una propuesta de Recursos Humanos con IA, sin fechas ni precio inventados. Los datos existentes y las variables administrativas no se reemplazan.
