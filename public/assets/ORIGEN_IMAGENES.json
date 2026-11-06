@@ -1,0 +1,9 @@
+{
+  "method": "Generador de imágenes integrado",
+  "description": "Portadas ilustrativas; no son capturas reales de las mini apps. Se pueden reemplazar desde Administración de productos.",
+  "prompts": {
+    "antiinsomnio": "Photorealistic editorial website catalogue cover for a Spanish mini app supporting evening rest routines. A smartphone resting on a bedside table, elegant dark navy and violet screen with a simple moon and abstract calm breathing circles (no readable UI text), warm bedside lamp, soft linen, tranquil bedroom at dusk. Wide landscape 3:2, professional product photograph, soft natural texture. No people, no medical symbols, no logos, no headline, no watermark. Illustrative app mockup, not an actual screenshot.",
+    "reconectar-parejas": "Photorealistic editorial website catalogue cover for a Spanish mini app helping couples communicate. A smartphone on a coffee table in foreground with a simple violet interface containing two abstract speech bubbles and small heart, no readable UI text. In the softly blurred background a Latin American adult couple sitting together talking warmly, neutral home, coral and violet accents. Wide landscape 3:2, professional product photography with warm natural daylight, authentic not clinical. No logos, no headline, no watermark. Illustrative app mockup, not actual screenshot.",
+    "mente-activa": "Photorealistic editorial website catalogue cover for a Spanish mini app with recreational memory and attention exercises for older adults. A tablet in foreground on a wooden table, screen with colorful simple matching shape tiles in sage and violet, no readable UI text. A cheerful older Latin American adult using it, only hands and softly blurred partial face, warm airy home, welcoming respectful representation. Wide landscape 3:2, professional natural product photograph, no hospital or medical imagery, no logos, no headline, no watermark. Illustrative app mockup, not actual screenshot."
+  }
+}
